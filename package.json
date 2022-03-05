@@ -1,0 +1,12 @@
+{
+  "name": "@acidicnic/cards",
+  "version": "0.1.1",
+  "description": "A deck of cards.",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "author": "acidicnic",
+  "license": "WTFPL",
+  "homepage": "https://github.com/AcidicNic/Cards.js"
+}
